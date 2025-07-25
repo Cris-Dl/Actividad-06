@@ -1,6 +1,3 @@
-from zmq.backend import first
-
-
 def insert_n_numbers():
     number_of_numbers = int(input("Cuantos números quiere ingresar? "))
     max_number = 0
